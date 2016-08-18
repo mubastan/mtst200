@@ -10,6 +10,7 @@ The ground truth bounding box annotations are in labels.zip, containing 1.jpg.la
 The format of the annotation files is as follows:
 
 imageFileName
+
 boundingBox(left,top,width,height) textLabel
 
 Example: 2.jpg.labels.txt
