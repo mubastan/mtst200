@@ -13,8 +13,11 @@ boundingBox(left,top,width,height) textLabel
 Example: 2.jpg.labels.txt
 
 2.jpg
+
 0 130 218 275 61 Öğrenci İşleri
+
 1 224 281 98 45 Ofisi
+
 2 126 328 276 40 Student Affsirs Office
 
 One can use STAT (https://github.com/mubastan/stat) to load and refine/correct these annotations.
