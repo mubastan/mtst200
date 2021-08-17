@@ -25,7 +25,7 @@ Example: 2.jpg.labels.txt
 
 One can use STAT (https://github.com/mubastan/stat) to load and refine/correct these annotations.
 
-References:
+# References:
 
 M. Bastan, H. Kandemir, B. Cantürk, "MT3S: Mobile Turkish Scene Text-to-Speech System for the Visually Impaired", arXiv:1608.05054, August 2016.
 
